@@ -1,0 +1,20 @@
+{
+  "name": "Copy of GelatoMaster Pro - Sistema de Gestão",
+  "short_name": "GelatoMaster",
+  "description": "Plataforma profissional de gestão para sorveterias. Controle de estoque, mesas e financeiro com inteligência artificial. Funciona offline e online.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/938/938063.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
